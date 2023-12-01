@@ -1,10 +1,9 @@
 ---
 title: "Landing Page"
-layout: single
+permalink: / # Need this if it's the home page in lieu of index.html
+#layout: single # Not needed, covered by defaults for pages
 author_profile: true
-# Need this if it's the home page in lieu of index.html
-permalink: /
-date: 2016-03-23T11:48:41-04:00
+#date: 2016-03-23T11:48:41-04:00 # Says "updated on DATE" in footer
 # https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers
 header:
   overlay_color: "#000"
