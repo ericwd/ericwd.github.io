@@ -23,23 +23,39 @@ intro:
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Modular Synthesis"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    excerpt: "Building devices that turn electricity into sound."
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Astro-photography"
+    excerpt: "A collection of my images and some technical info on the process."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Mycology"
+    excerpt: "Hunting, cloning, and growing fungi."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
-    title: "Placeholder 4"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Game Development"
+    excerpt: "Progress in learning how to make video games with Unity in C#."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "Backpacking"
+    excerpt: "Photographs from a three day trip in the Yosemite wilderness area."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
