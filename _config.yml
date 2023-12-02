@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 title                    : ""
-title_separator          : "-"
+title_separator          : " "
 subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : "Eric Driscoll, PhD" # Site name in the footer
 description              : ""
@@ -108,13 +108,16 @@ analytics:
 author:
   name             : "Eric Driscoll, PhD."
   avatar           : "/assets/images/author-bio-avatar.jpg"
-  bio              : "I like to make stuff with electricity, light, and mycelium."
+  bio              : "A physical chemist who likes to make stuff with electricity, light, and mycelium."
   location         : "La Verne, CA"
   #email            : "ericwd@gmail.com" # causing a duplicate with the link below
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ericwd@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/eric-william-driscoll/
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ericwd"
@@ -123,14 +126,17 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/eric-william-driscoll/
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: https://github.com/ericwd
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
