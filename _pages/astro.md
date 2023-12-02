@@ -10,9 +10,9 @@ intro:
 
 # Define the gallery -- can this be done with liquid over all images in a subdir?
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    title: "Barnard's Loop and Orion. 10 hr exposure, f/5.6, 50 mm"
+  - url: /assets/images/astro/gallery/2023-07-29-Veil_21hr_bg_edit.jpg
+    image_path: /assets/images/astro/gallery/2023-07-29-Veil_21hr_bg_edit.jpg
+    title: "Veil Nebula"
   - url: /assets/images/unsplash-gallery-image-2.jpg
     image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
@@ -40,8 +40,8 @@ gallery:
 My photos of (mostly) outer space and some posts about technical stuff.
 <hr>
 
-<h1>Gallery</h1>
-{: .text-center}
+<!-- <h1>Gallery</h1>
+{: .text-center} -->
 {% include gallery %}
 <hr>
 
@@ -49,7 +49,7 @@ My photos of (mostly) outer space and some posts about technical stuff.
 
 
 <h1>Astro Posts</h1>
-{: .text-center}
+{: .text-left}
 <li>Modding a Canon T6 DSLR for full spectrum astrophotography</li>
 <li>A strategy to capture emission nebulae from light polluted areas without breaking the bank</li>
 <li>Post 3</li>
