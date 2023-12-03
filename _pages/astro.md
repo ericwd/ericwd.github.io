@@ -34,8 +34,8 @@ gallery:
   - url: /assets/images/astro/gallery/2022-11-12-Cygnus-Region-9.5hr-50-mm.jpg
     image_path: /assets/images/astro/gallery/2022-11-12-Cygnus-Region-9.5hr-50-mm.jpg
     title: Cygnus Region
-  - url: /assets/images/astro/gallery/2022-07-02-2022-07-02-Milky-Way.jpeg
-    image_path: /assets/images/astro/gallery/2022-07-02-2022-07-02-Milky-Way.jpg
+  - url: /assets/images/astro/gallery/2022-07-02-Milky-Way.jpeg
+    image_path: /assets/images/astro/gallery/2022-07-02-Milky-Way.jpeg
     title: Milky Way
   - url: /assets/images/astro/gallery/2022-07-02-M8-M20-Lagoon_and_Trifid-Nebulae-300-mm.jpeg
     image_path: /assets/images/astro/gallery/2022-07-02-M8-M20-Lagoon_and_Trifid-Nebulae-300-mm.jpeg
