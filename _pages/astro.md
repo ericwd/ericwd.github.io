@@ -47,8 +47,8 @@ gallery:
 My photos of (mostly) outer space and some posts about technical stuff.
 <hr>
 
-<!-- <h1>Gallery</h1>
-{: .text-center} -->
+<h1>Gallery</h1>
+{: .text-left}
 {% include gallery %}
 <hr>
 
