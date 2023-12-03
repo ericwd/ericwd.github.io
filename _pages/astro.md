@@ -10,29 +10,36 @@ intro:
 
 # Define the gallery -- can this be done with liquid over all images in a subdir?
 gallery:
-  - url: /assets/images/astro/gallery/2023-07-29-Veil_21hr_bg_edit.jpg
-    image_path: /assets/images/astro/gallery/2023-07-29-Veil_21hr_bg_edit.jpg
-    title: "Veil Nebula"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
+  - url: /assets/images/astro/gallery/2023-07-29-Veil-21hr.jpg
+    image_path: /assets/images/astro/gallery/2023-07-29-Veil-21hr.jpg
+    title: Veil Nebula
+  - url: /assets/images/astro/gallery/2023-07-11-Sadr-Region-200-mm.jpg
+    image_path: /assets/images/astro/gallery/2023-07-11-Sadr-Region-200-mm.jpg
+    title: Sadr Region
+  - url: /assets/images/astro/gallery/2023-01-21-Pleiades-300-mm.jpg
+    image_path: /assets/images/astro/gallery/2023-01-21-Pleiades-300-mm.jpg
+    title: Pleiades
+  - url: /assets/images/astro/gallery/2023-01-21-comet-2022-ZTF-50-mm.jpg
+    image_path: /assets/images/astro/gallery/2023-01-21-comet-2022-ZTF-50-mm.jpg
+    title: Comet 2022 ZTF
+  - url: /assets/images/astro/gallery/2023-01-21-Barnards-Loop-50-mm.jpg
+    image_path: /assets/images/astro/gallery/2023-01-21-Barnards-Loop-50-mm.jpg
+    title: Barnard's Loop and Orion
+  - url: /assets/images/astro/gallery/2022-11-18-Andromeda-250mm-f7.1-3.6hr.jpg
+    image_path: /assets/images/astro/gallery/2022-11-18-Andromeda-250mm-f7.1-3.6hr.jpg
+    title: Andromeda Galaxy
+  - url: /assets/images/astro/gallery/2022-11-16-Heart-and-Soul-175mm-4hr.jpg
+    image_path: /assets/images/astro/gallery/2022-11-16-Heart-and-Soul-175mm-4hr.jpg
+    title: Heart and Soul Nebulae
+  - url: /assets/images/astro/gallery/2022-11-12-Cygnus-Region-9.5hr-50-mm.jpg
+    image_path: /assets/images/astro/gallery/2022-11-12-Cygnus-Region-9.5hr-50-mm.jpg
+    title: Cygnus Region
+  - url: /assets/images/astro/gallery/2022-07-02-2022-07-02-Milky-Way.jpeg
+    image_path: /assets/images/astro/gallery/2022-07-02-2022-07-02-Milky-Way.jpg
+    title: Milky Way
+  - url: /assets/images/astro/gallery/2022-07-02-M8-M20-Lagoon_and_Trifid-Nebulae-300-mm.jpeg
+    image_path: /assets/images/astro/gallery/2022-07-02-M8-M20-Lagoon_and_Trifid-Nebulae-300-mm.jpeg
+    title: Lagoon and Trifid Nebulae
 ---
 
 <!-- Page title shows here, left aligned, defined in front matter -->
