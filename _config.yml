@@ -106,9 +106,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Eric Driscoll, PhD."
+  name             : "Eric Driscoll, PhD"
   avatar           : "/assets/images/author-bio-avatar.jpg"
-  bio              : "A physical chemist who likes to make stuff with electricity, light, and mycelium."
+  bio              : "I'm a physical chemist who likes to make stuff with photons, electricity, and mycelium."
   location         : "La Verne, CA"
   #email            : "ericwd@gmail.com" # causing a duplicate with the link below
   links:

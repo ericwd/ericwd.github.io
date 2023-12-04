@@ -47,7 +47,6 @@ My photos of (mostly) outer space and some posts about technical stuff.
 {: .text-left}
 {% include gallery %}
 
-
 ## Astro Posts
 {: .text-left}
 {% include list-posts-in-category category = 'astro' %}
