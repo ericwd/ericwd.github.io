@@ -40,16 +40,12 @@ gallery:
     image_path: /assets/images/astro/gallery/2022-07-02-M8-M20-Lagoon_and_Trifid-Nebulae-300-mm.jpeg
     title: Lagoon and Trifid Nebulae
 ---
-
 <!-- Page title shows here, left aligned, defined in front matter -->
-
 My photos of (mostly) outer space and some posts about technical stuff.
-<hr>
 
 ## Gallery
 {: .text-left}
 {% include gallery %}
-<hr>
 
 
 ## Astro Posts
