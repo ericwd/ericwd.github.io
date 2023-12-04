@@ -1,14 +1,13 @@
 ---
 title: "Astrophotography"
 permalink: /astro # Need this if it's the home page in lieu of index.html
-classes: wide # needed?
+#classes: wide # needed? Nah, looks good as single col
 date: 2023-12-02 # Says "updated on DATE" in footer
-
-intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
-
-
+toc: true
 # Define the gallery -- can this be done with liquid over all images in a subdir?
+# Long term solution should be to find a more appropriate _include gallery that
+# will expand and scroll dynamically so the page doesn't get too cluttered as
+# I post more images
 gallery:
   - url: /assets/images/astro/gallery/2023-07-29-Veil-21hr.jpg
     image_path: /assets/images/astro/gallery/2023-07-29-Veil-21hr.jpg
@@ -47,19 +46,13 @@ gallery:
 My photos of (mostly) outer space and some posts about technical stuff.
 <hr>
 
-<h1>Gallery</h1>
+## Gallery
 {: .text-left}
 {% include gallery %}
 <hr>
 
 
-
-
-<h1>Astro Posts</h1>
+## Astro Posts
 {: .text-left}
-<li>Modding a Canon T6 DSLR for full spectrum astrophotography</li>
-<li>A strategy to capture emission nebulae from light polluted areas without breaking the bank</li>
-<li>Post 3</li>
-<hr>
-
-
+{% include list-posts-in-category category = 'astro' %}
+{: .text-left}

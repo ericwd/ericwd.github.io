@@ -1,0 +1,23 @@
+{% raw %}
+<!-- Code snippet that uses group-by-array to make a list of posts (as archive-singles) in one category -->
+<!-- category is specified in the include call -->
+<!-- e.g. {% include list-posts-in-category category = 'astro' %} -->
+{% endraw %}
+{% include group-by-array collection=site.posts field='categories' %}
+<div>
+  {% for cat in group_names %}
+  <!-- {% raw %} Only show this category {% endraw %} -->
+    {% if cat == include.category %}
+        {% assign posts = group_items[forloop.index0] %}
+            {% for post in posts %}
+              {% raw %}
+              <!-- think of this as an entry in an archive -->
+              <!-- it's "input" is a post object, and it returns -->
+              <!-- hyperlinked title, read time, excerpt -->
+              <!-- found it's usage in _includes/posts-category.html, but probably used elsewhere too -->
+              {% endraw %}
+              {% include archive-single.html %}
+            {% endfor %}
+    {% endif %}
+  {% endfor %}
+</div> 

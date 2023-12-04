@@ -1,7 +1,7 @@
 ---
 title: "Markup: HTML Tags and Formatting"
 header:
-  teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
+  teaser: "assets/images/astro/gallery/2023-07-11-Sadr-Region-200-mm.jpg"
 categories:
   - Markup
 tags:
