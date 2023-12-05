@@ -23,7 +23,7 @@ excerpt: "Welcome! These are some ongoing projects and activities that I spend m
 
 
 feature_row:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/astro/gallery/2023-07-11-Sadr-Region-200-mm-thumb.jpg
     alt: ""
     title: "Astrophotography"
     excerpt: "A collection of my images and some technical info on the process."

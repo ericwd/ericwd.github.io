@@ -10,34 +10,34 @@ toc: true
 # I post more images
 gallery:
   - url: /assets/images/astro/gallery/2023-07-29-Veil-21hr.jpg
-    image_path: /assets/images/astro/gallery/2023-07-29-Veil-21hr.jpg
+    image_path: /assets/images/astro/gallery/2023-07-29-Veil-21hr-thumb.jpg
     title: Veil Nebula
   - url: /assets/images/astro/gallery/2023-07-11-Sadr-Region-200-mm.jpg
-    image_path: /assets/images/astro/gallery/2023-07-11-Sadr-Region-200-mm.jpg
+    image_path: /assets/images/astro/gallery/2023-07-11-Sadr-Region-200-mm-thumb.jpg
     title: Sadr Region
   - url: /assets/images/astro/gallery/2023-01-21-Pleiades-300-mm.jpg
-    image_path: /assets/images/astro/gallery/2023-01-21-Pleiades-300-mm.jpg
+    image_path: /assets/images/astro/gallery/2023-01-21-Pleiades-300-mm-thumb.jpg
     title: Pleiades
   - url: /assets/images/astro/gallery/2023-01-21-comet-2022-ZTF-50-mm.jpg
-    image_path: /assets/images/astro/gallery/2023-01-21-comet-2022-ZTF-50-mm.jpg
+    image_path: /assets/images/astro/gallery/2023-01-21-comet-2022-ZTF-50-mm-thumb.jpg
     title: Comet 2022 ZTF
   - url: /assets/images/astro/gallery/2023-01-21-Barnards-Loop-50-mm.jpg
-    image_path: /assets/images/astro/gallery/2023-01-21-Barnards-Loop-50-mm.jpg
+    image_path: /assets/images/astro/gallery/2023-01-21-Barnards-Loop-50-mm-thumb.jpg
     title: Barnard's Loop and Orion
   - url: /assets/images/astro/gallery/2022-11-18-Andromeda-250mm-f7.1-3.6hr.jpg
-    image_path: /assets/images/astro/gallery/2022-11-18-Andromeda-250mm-f7.1-3.6hr.jpg
+    image_path: /assets/images/astro/gallery/2022-11-18-Andromeda-250mm-f7.1-3.6hr-thumb.jpg
     title: Andromeda Galaxy
   - url: /assets/images/astro/gallery/2022-11-16-Heart-and-Soul-175mm-4hr.jpg
-    image_path: /assets/images/astro/gallery/2022-11-16-Heart-and-Soul-175mm-4hr.jpg
+    image_path: /assets/images/astro/gallery/2022-11-16-Heart-and-Soul-175mm-4hr-thumb.jpg
     title: Heart and Soul Nebulae
   - url: /assets/images/astro/gallery/2022-11-12-Cygnus-Region-9.5hr-50-mm.jpg
-    image_path: /assets/images/astro/gallery/2022-11-12-Cygnus-Region-9.5hr-50-mm.jpg
+    image_path: /assets/images/astro/gallery/2022-11-12-Cygnus-Region-9.5hr-50-mm-thumb.jpg
     title: Cygnus Region
   - url: /assets/images/astro/gallery/2022-07-02-Milky-Way.jpeg
-    image_path: /assets/images/astro/gallery/2022-07-02-Milky-Way.jpeg
+    image_path: /assets/images/astro/gallery/2022-07-02-Milky-Way-thumb.jpeg
     title: Milky Way
   - url: /assets/images/astro/gallery/2022-07-02-M8-M20-Lagoon_and_Trifid-Nebulae-300-mm.jpeg
-    image_path: /assets/images/astro/gallery/2022-07-02-M8-M20-Lagoon_and_Trifid-Nebulae-300-mm.jpeg
+    image_path: /assets/images/astro/gallery/2022-07-02-M8-M20-Lagoon_and_Trifid-Nebulae-300-mm-thumb.jpeg
     title: Lagoon and Trifid Nebulae
 ---
 <!-- Page title shows here, left aligned, defined in front matter -->
