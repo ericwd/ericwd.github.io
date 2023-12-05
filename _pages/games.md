@@ -29,8 +29,10 @@ To view the C# code I wrote to control the agent and environment see my [unity-m
 # How to Use
 
 This is not a video -- it's interactive and the agent is solving it's environment in real time.
-To interact with it, first click the environment or the fullscreen button to focus the window.
-Press <space> to reset the enironment and the agent will start again.
+
+To interact with the WebGL:
+1. Click the environment or the fullscreen button to focus the window.
+2. Press `<spacebar>` to reset the enironment objects and have the agent begin a new run.
 
 
 # Details
