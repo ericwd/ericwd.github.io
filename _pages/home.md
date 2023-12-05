@@ -24,7 +24,6 @@ excerpt: "Welcome! These are some ongoing projects and activities that I spend m
 
 feature_row:
   - image_path: /assets/images/astro/gallery/2023-07-11-Sadr-Region-200-mm-thumb.jpg
-    alt: ""
     title: "Astrophotography"
     excerpt: "A collection of my images and some technical info on the process."
     url: "/astro"
@@ -32,7 +31,6 @@ feature_row:
     btn_class: "btn--primary"
 
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: ""
     title: "Modular Synthesis"
     url: "/synth"
     btn_label: "View"
@@ -46,8 +44,7 @@ feature_row:
     btn_label: "View"
     btn_class: "btn--primary"
 
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: ""
+  - image_path: /assets/images/games/unity-ml-agents-donut-collector/ml-agents-01-thumb.png
     title: "Game Development"
     excerpt: "Progress in learning how to make video games with Unity in C#."
     url: "/games"
@@ -55,7 +52,6 @@ feature_row:
     btn_class: "btn--primary"
 
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: ""
     title: "Backpacking"
     excerpt: "Photographs from a three day trip in the Yosemite wilderness area."
     url: "/backpacking"
