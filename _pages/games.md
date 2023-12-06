@@ -4,6 +4,14 @@ permalink: /games
 date: 2023-12-04 # Says "updated on DATE" in footer
 #classes: wide
 toc: true
+
+
+# single image galleries
+gallery:
+  - url: /assets/images/astro/gallery/2023-07-29-Veil-21hr.jpg
+    image_path: /assets/images/astro/gallery/2023-07-29-Veil-21hr-thumb.jpg
+    title: Veil Nebula
+
 ---
 <!-- Page title shows here, left aligned, defined in front matter -->
 <hr>
@@ -17,7 +25,6 @@ For details on this package see the [official Unity documentation](https://githu
 To view the C# code I wrote to control the agent and environment see my [unity-ml-agent donut-collector](https://github.com/ericwd/unity-ml-agents-donut-collector/tree/main/Assets/Pacman/Scripts) repo.
 
 {% include figure image_path="/assets/images/games/unity-ml-agents-donut-collector/ml-agents-01.png" caption="An agent encountering their first Blender donut and spike box." %}
-
 
 # Live Demo
 <!-- https://www.w3schools.com/tags/tag_iframe.ASP -->

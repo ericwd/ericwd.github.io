@@ -30,14 +30,14 @@ feature_row:
     btn_label: "View"
     btn_class: "btn--primary"
 
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: assets/images/synth/synth_saw_scope-thumb.jpg
     title: "Modular Synthesis"
     url: "/synth"
     btn_label: "View"
     btn_class: "btn--primary"
     excerpt: "Building devices that turn electricity into sound."
 
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - image_path: /assets/images/mycology/pink_PXL_20210417_155058451-thumb.jpg
     title: "Mycology"
     excerpt: "Forays into farming and finding fungi."
     url: "/mycology"
@@ -51,7 +51,7 @@ feature_row:
     btn_label: "View"
     btn_class: "btn--primary"
 
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: assets/images/backpacking/yosemite-2023/PXL_20230904_230827011-thumb.jpg
     title: "Backpacking"
     excerpt: "Photographs from a three day trip in the Yosemite wilderness area."
     url: "/backpacking"
