@@ -11,8 +11,11 @@ author_profile: true
 # https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_filter: "0.6"
+  # boosted saturation, and scaled down by factor of 0.5
+  overlay_image: /assets/images/banner/b1-sat-0.5.jpg
+  #overlay_image: /assets/images/unsplash-image-1.jpg
+
   # makes buttons on the banner
   # actions:
   #   - label: "Download"
@@ -21,13 +24,13 @@ header:
   #     url: "https://github.com/mmistakes/minimal-mistakes/"
   #   - label: "Another Button"
   #     url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Welcome! These are some ongoing projects and activities that I spend my time on."
 
 
 feature_row:
   - image_path: /assets/images/astro/gallery/2023-07-11-Sadr-Region-200-mm-thumb.jpg
-    title: "Astro-photography"
+    title: "Astrophotography"
     excerpt: "A collection of my images and some technical info on the process."
     url: "/astro"
     btn_label: "View"
