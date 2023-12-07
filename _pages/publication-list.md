@@ -1,0 +1,11 @@
+<!-- This md is loaded via Jekyll's include_relative function -->
+<!-- DO not use and YAML front matter, only md and html -->
+### Primary Author
+1. **Driscoll, E. W.**; Hunt, J. R.; Dawlaty, J. M. [Proton Capture Dynamics in Quinoline Photobases: Substituent Effect and Involvement of Triplet States.](https://doi.org/10.1021/acs.jpca.7b04512) J. Phys. Chem. A 2017. [[PDF]](/assets/pdf/publications/driscoll-2017-quinoline-photobase-ultrafast.pdf) 
+2. **Driscoll, E. W.**; Hunt, J. R.; Dawlaty, J. M. [Photobasicity in Quinolines: Origin and Tunability via the Substituents’ Hammett Parameters.](https://doi.org/10.1021/acs.jpclett.6b00790) J. Phys. Chem. Lett. 2016. [[PDF]](/assets/pdf/publications/driscoll-2016-quinoline-photobase-hammett.pdf)
+3. **Driscoll, E. W.**; Sorenson, S.; Dawlaty, J. M. [Ultrafast Intramolecular Electron and Proton Transfer in Bis(Imino)Isoindole Derivatives.](https://doi.org/10.1021/acs.jpca.5b02889) J. Phys. Chem. A 2015. [[PDF]](/assets/pdf/publications/driscoll-2016-quinoline-photobase-hammett.pdf)
+
+### Co-Author
+1. Welsch, R.; **Driscoll, E. W.**; Dawlaty, J. M.; Miller, T. F. [Molecular Seesaw: How Increased Hydrogen Bonding Can Hinder Excited-State Proton Transfer.](https://doi.org/10.1021/acs.jpclett.6b01391) J. Phys. Chem. Lett. 2016. [[PDF]](/assets/pdf/publications/welsch-2016-molecular-seesaw.pdf)
+2. Rury, A. S.; Sorenson, S.; **Driscoll, E. W.**; Dawlaty, J. M. [Electronic State-Resolved Electron–Phonon Coupling in an Organic Charge Transfer Material from Broadband Quantum Beat Spectroscopy.](https://doi.org/10.1021/acs.jpclett.5b01706) J. Phys. Chem. Lett. 2015. [[PDF]](/assets/pdf/publications/rury-2015-electron-phonon-quantum-beat.pdf)
+3. Sorenson, S.; **Driscoll, E. W.**; Haghighat, S.; Dawlaty, J. M. [Ultrafast Carrier Dynamics in Hematite Films: The Role of Photoexcited Electrons in the Transient Optical Response.](https://doi.org/10.1021/jp508273f) J. Phys. Chem. C 2014. [[PDF]](/assets/pdf/publications/sorenson-2014-hematite-thin-ultrafast.pdf)

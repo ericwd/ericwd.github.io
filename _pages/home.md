@@ -2,7 +2,10 @@
 title: "Eric Driscoll, PhD"
 permalink: / # Need this if it's the home page in lieu of index.html
 #layout: single # Not needed, covered by defaults for pages
-classes: wide # each project element looks better this way, and the long work "astrophotography" is less likely to be truncated
+
+# classes: wide # each project element looks better this way, and the long word "astrophotography" is less likely to be truncated
+toc: true
+
 author_profile: true
 #date: 2016-03-23T11:48:41-04:00 # Says "updated on DATE" in footer
 # https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers
@@ -24,7 +27,7 @@ excerpt: "Welcome! These are some ongoing projects and activities that I spend m
 
 feature_row:
   - image_path: /assets/images/astro/gallery/2023-07-11-Sadr-Region-200-mm-thumb.jpg
-    title: "Astrophotography"
+    title: "Astro-photography"
     excerpt: "A collection of my images and some technical info on the process."
     url: "/astro"
     btn_label: "View"
@@ -61,5 +64,9 @@ feature_row:
 
 <!-- <h1><p style="text-align:center">Projects</p></h1> -->
 <!-- All features in one row -->
+# Projects
+
 {% include feature_row %}
 
+# Academic Publications
+{% include_relative publication-list.md %}
