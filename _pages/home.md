@@ -3,8 +3,8 @@ title: "Eric Driscoll, PhD"
 permalink: / # Need this if it's the home page in lieu of index.html
 #layout: single # Not needed, covered by defaults for pages
 
-# classes: wide # each project element looks better this way, and the long word "astrophotography" is less likely to be truncated
-toc: true
+classes: wide # each project element looks better this way, and the long word "astrophotography" is less likely to be truncated
+toc: false
 
 author_profile: true
 #date: 2016-03-23T11:48:41-04:00 # Says "updated on DATE" in footer
