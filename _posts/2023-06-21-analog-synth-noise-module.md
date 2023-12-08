@@ -8,6 +8,7 @@ toc_label: "Noise Module"
 toc_icon: "bolt"
 ---
 
+*This page is a work in progress*
 
 # Noise
 Explain how the noise module works

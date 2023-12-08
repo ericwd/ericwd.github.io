@@ -7,7 +7,8 @@ toc: true
 
 ---
 <!-- Page title shows here, left aligned, defined in front matter -->
-<hr>
+
+*This page is a work in progress*
 
 # Cultivation
 

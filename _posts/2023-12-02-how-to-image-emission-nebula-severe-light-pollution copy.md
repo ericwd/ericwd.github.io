@@ -8,3 +8,6 @@ categories:
 toc: true
 ---
 
+*This page is a work in progress*
+
+See Nico's [comparison](https://www.astrofilters.com/2021/12/27/optolong-l-enhance-2/) of images with and without a dual bandpass filter on a moddifed camera.
