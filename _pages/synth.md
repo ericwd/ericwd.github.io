@@ -78,7 +78,7 @@ An outline of my process in a nutshell:
 
 # Example Schematics and Pictures
 
-Here are some pictures from the step sequencer build. Eventually, they'll do in their own post.
+Here are some pictures from the step sequencer build. Eventually, they'll go in their own post.
 ![](/assets/images/synth/seq-1.png)
 <br><br>
 ![](/assets/images/synth/seq-2.png)
