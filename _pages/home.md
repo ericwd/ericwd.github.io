@@ -41,7 +41,7 @@ feature_row:
     url: "/synth"
     btn_label: "View"
     btn_class: "btn--primary"
-    excerpt: "Building devices that turn electricity into sound."
+    excerpt: "Turning electricity into music with analog(ish) circuits."
 
   - image_path: /assets/images/mycology/pink_PXL_20210417_155058451-thumb.jpg
     title: "Mycology"
@@ -52,7 +52,7 @@ feature_row:
 
   - image_path: /assets/images/games/unity-ml-agents-donut-collector/ml-agents-01-thumb.png
     title: "Game Development"
-    excerpt: "Progress in learning how to make video games with Unity in C#."
+    excerpt: "Video games I've created with Unity in C#."
     url: "/games"
     btn_label: "View"
     btn_class: "btn--primary"
