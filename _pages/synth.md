@@ -21,7 +21,7 @@ And similarly, *I thought you were a chemist?*
 
 Honestly, I'm not entirely sure. There is something aesthetically pleasing about the orderliness of a schematic and it's materialization onto stripboard. Witnessing a few components turn the chaos of electrons into something approximately musical was too alluring to not give it a try.
 
-I'm essentially building these "educational" modules deigned by Moritz Klein availavle at [Erica Synths](https://www.ericasynths.lv/shop/diy-kits-1/) -- but with my own parts rather than from a PCB kit. Sometimes I'll make small modications to the design because I want more or less of something, or because of component tolerances.
+I'm essentially building these "educational" modules deigned by Moritz Klein available at [Erica Synths](https://www.ericasynths.lv/shop/diy-kits-1/) -- but with my own parts rather than from a PCB kit. Sometimes I'll make small modications to the design because I want more or less of something, or because of component tolerances.
 
 # Sound Demo
 
@@ -87,6 +87,6 @@ Here are some pictures from the step sequencer build. Eventually, they'll go in 
 
 # Resources
 
-- Visit the [Eric Synths](https://www.ericasynths.lv/shop/diy-kits-1/) product pages to see available modules. They have details manuals with schematics available for free.
-- Watch [Mortiz Klein's](https://www.youtube.com/@MoritzKlein0) Youtube channel for a treasure trove of DIY synth pedagogy.
+- Visit the [Erica Synths](https://www.ericasynths.lv/shop/diy-kits-1/) product pages to see available modules. They have details manuals with schematics available for free.
+- Watch [Moritz Klein's](https://www.youtube.com/@MoritzKlein0) Youtube channel for a treasure trove of DIY synth pedagogy.
 - Watch [LOOK MUM NO COMPUTER's](https://www.youtube.com/@LOOKMUMNOCOMPUTER) Youtube channel to cultivate some, uh, *chaotic, creative energy.*
