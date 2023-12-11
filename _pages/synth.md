@@ -11,17 +11,23 @@ toc: true
 
 A collection of the synthesizer modules I've built and the overall project status.
 
+[![](/assets/images/synth/synth_saw_scope-thumb.jpg)](/assets/images/synth/synth_saw_scope.jpg)
+Front panels with scope showing a sawthooth wave.
+
+[![](/assets/images/synth/synth-back-thumb.jpg)](/assets/images/synth/synth-back.jpg)
+Back panels made out of stripboard and aluminum.
+
 # Summary
 
 I'm building a modular synthesizer to learn about analog circuits and electronic music. 
+*"But why?"*, you ask. Or similarly, *"I thought you were a chemist?"*
 
-![](/assets/images/synth/ryan-reynolds-but-why.gif)
-<br>
-And similarly, *I thought you were a chemist?*
+I'm not *completely* unqualified for this -- I did take a 300-level electronics elective in college, though it was mostly just doing linear algebra rather than working with real components. My lab parter and I build an extremely poor potentiostat. I've also built a small, Altoids-can, signal processing circuit for my grad school lab, which, amazingly, it is still in use today.
 
 Honestly, I'm not entirely sure. There is something aesthetically pleasing about the orderliness of a schematic and it's materialization onto stripboard. Witnessing a few components turn the chaos of electrons into something approximately musical was too alluring to not give it a try.
 
-I'm essentially building these "educational" modules deigned by Moritz Klein available at [Erica Synths](https://www.ericasynths.lv/shop/diy-kits-1/) -- but with my own parts rather than from a PCB kit. Sometimes I'll make small modications to the design because I want more or less of something, or because of component tolerances.
+
+I'm essentially building these "educational" modules designed by Moritz Klein available at [Erica Synths](https://www.ericasynths.lv/shop/diy-kits-1/) -- but with my own parts rather than from a PCB kit. Sometimes I'll make small modications to the design because I want more or less of something, or because of component tolerances.
 
 # Sound Demo
 
@@ -61,8 +67,8 @@ An outline of my process in a nutshell:
     - Test modifications if needed
     - Layout front panel parts on graph paper and choose size
 3. CAD 
-    - draw schematic in [tinyCAD](https://www.tinycad.net/) and export netlist
-    - import netlist to [veeCAD](https://veecad.com/) and layout all the parts onto stripboard
+    - draw schematic in [TinyCAD](https://www.tinycad.net/) and export netlist
+    - import netlist to [VeeCAD](https://veecad.com/) and layout all the parts onto stripboard
     - print build diagrams
 4. Build
     - Cut stripboard tracks
