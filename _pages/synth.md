@@ -1,7 +1,7 @@
 ---
 title: "Modular Synthesis"
 permalink: /synth 
-date: 2023-12-08 # Says "updated on DATE" in footer
+date: 2024-06-10 # Says "updated on DATE" in footer
 #classes: wide
 toc: true
 
