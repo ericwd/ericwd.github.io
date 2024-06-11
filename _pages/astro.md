@@ -9,8 +9,8 @@ toc: true
 # will expand and scroll dynamically so the page doesn't get too cluttered as
 # I post more images
 gallery:
-  - url: /assets/images/astro/gallery/2024-04-05-Rosette-thumb.jpg
-    image_path: /assets/images/astro/gallery/2024-04-05-Rosette.jpg
+  - url: /assets/images/astro/gallery/2024-04-05-Rosette.jpg
+    image_path: /assets/images/astro/gallery/2024-04-05-Rosette-thumb.jpg
     title: Rosette Nebula
   - url: /assets/images/astro/gallery/2023-07-29-Veil-21hr.jpg
     image_path: /assets/images/astro/gallery/2023-07-29-Veil-21hr-thumb.jpg
