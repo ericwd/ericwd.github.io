@@ -2,7 +2,7 @@
 title: "Astrophotography"
 permalink: /astro # Need this if it's the home page in lieu of index.html
 #classes: wide # needed? Nah, looks good as single col
-date: 2023-12-02 # Says "updated on DATE" in footer
+#date: 2024-06-10 # Says "updated on DATE" in footer
 toc: true
 # Define the gallery -- can this be done with liquid over all images in a subdir?
 # Long term solution should be to find a more appropriate _include gallery that
