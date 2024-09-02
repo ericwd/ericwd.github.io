@@ -9,6 +9,9 @@ toc: true
 # will expand and scroll dynamically so the page doesn't get too cluttered as
 # I post more images
 gallery:
+  - url: /assets/images/astro/gallery/2024-08-29-Big_Pine_Milky_Way.jpg
+    image_path: /assets/images/astro/gallery/2024-08-29-Big_Pine_Milky_Way-thumb.jpg
+    title: Milky Way over Big Pine Creek, late August 2024
   - url: /assets/images/astro/gallery/2024-04-05-Rosette.jpg
     image_path: /assets/images/astro/gallery/2024-04-05-Rosette-thumb.jpg
     title: Rosette Nebula
