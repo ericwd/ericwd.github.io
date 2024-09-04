@@ -44,7 +44,7 @@ gallery:
     title: Milky Way
   - url: /assets/images/astro/gallery/2022-07-02-M8-M20-Lagoon_and_Trifid-Nebulae-300-mm.jpeg
     image_path: /assets/images/astro/gallery/2022-07-02-M8-M20-Lagoon_and_Trifid-Nebulae-300-mm-thumb.jpeg
-    title: Lagoon and Trifid Nebulae
+    title: Lagoon and Trifid Nebulae. Holy chromatic aberration, Batman!
 ---
 <!-- Page title shows here, left aligned, defined in front matter -->
 My photos of (mostly) outer space and some posts about technical stuff.
