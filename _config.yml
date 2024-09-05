@@ -110,11 +110,11 @@ author:
   avatar           : "/assets/images/author-bio-avatar.jpg"
   bio              : "I'm a physical chemist who likes to make stuff with photons, electricity, and mycelium."
   location         : "La Verne, CA"
-  #email            : "ericwd@gmail.com" # causing a duplicate with the link below
+  #email            : "" # causing a duplicate with the link below
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ericwd@gmail.com"
+    #- label: "Email"
+      #icon: "fas fa-fw fa-envelope-square"
+      #url: "mailto:"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: https://www.linkedin.com/in/eric-william-driscoll/
